@@ -21,5 +21,5 @@
 ![REAPER](https://img.shields.io/badge/REAPER-222222.svg?style=for-the-badge&logo=reaper&logoColor=white)
 
 ### 📫 ارتباط با من:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/YOUR_TELEGRAM_ID](https://t.me/Moeidkarimyar))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/YOUR_TELEGRAM_ID](https://t.me/Moeidkarimyar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
