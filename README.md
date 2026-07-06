@@ -15,10 +15,11 @@
 - **Zalpha (zalpha.ir):** پلتفرم آموزشی و توسعه فردی برای نوجوانان 💡
 
 ### 🎨 ابزارهای طراحی و مدیا:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![REAPER](https://img.shields.io/badge/REAPER-222222.svg?style=for-the-badge&logo=reaper&logoColor=white)
 
 ### 📫 ارتباط با من:
-- **تلگرام:** https://t.me/Moeidkarimyar
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/YOUR_TELEGRAM_ID](https://t.me/Moeidkarimyar))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
