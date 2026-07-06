@@ -20,5 +20,5 @@
 ![REAPER](https://img.shields.io/badge/REAPER-222222.svg?style=for-the-badge&logo=reaper&logoColor=white)
 
 ### 📫 ارتباط با من:
-- **تلگرام:** [لینک تلگرام خود را اینجا بگذارید]
-- **ایمیل:** [ایمیل خود را اینجا بگذارید]
+- **تلگرام:** https://t.me/Moeidkarimyar
+
